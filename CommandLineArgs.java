@@ -1,3 +1,8 @@
+//program to demonstrate the use of command line arguments
+//Input data is given through command line 
+//by passing the values into the main method
+//Use Run Configuration button->Arguments Tab
+
 
 public class CommandLineArgs {
 	public static void main(String[] args){
